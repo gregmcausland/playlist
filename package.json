@@ -1,0 +1,21 @@
+{
+  "name": "hello-world",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "hyperscript-helpers": "^3.0.1",
+    "react-audio-player": "^0.2.5",
+    "react-hyperscript-helpers": "^1.2.0",
+    "react-scripts": "0.4.3"
+  },
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

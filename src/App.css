@@ -1,0 +1,9 @@
+
+
+.playlist {}
+
+.playlist__item {
+}
+  .playlist__item.is-active {
+    background: red;
+  }
